@@ -1,3 +1,3 @@
 # the-silo
 
-Created with CodeSandbox
+Connected to CodeSandbox
